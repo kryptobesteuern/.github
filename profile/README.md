@@ -19,5 +19,5 @@
   ·
   <a href="https://www.krypto-besteuern.de/shop/">Kryptoexperten Shop</a>
   ·
-  <a href="https://www.krypto-besteuern.de/lexikon/">Kryptoexperten Shop</a>
+  <a href="https://www.krypto-besteuern.de/lexikon/">Kryptoexperten Lexikon</a>
 </p>
